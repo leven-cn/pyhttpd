@@ -1,0 +1,3 @@
+[submodule "deps/pylib"]
+	path = deps/pylib
+	url = https://github.com/leven-cn/pylib
